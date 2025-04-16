@@ -36,7 +36,7 @@ Estudar mais para duas áreas como concursos e a etec. Para ter um desempenho ac
 | Calcular  tempo e rota de lomoção até o local de prova                       | 100           | 0%     |
 | Verificar materias de prova e comprar                                        | 100           | 100%   |
 | Separar documentos: RG e CNH                                                 | 100           | 90%    |
-
+------------------------------------------------------------------------------------------------------------
 
 ## 🗺️ Roadmap (Resumo de 6 Meses)
 
@@ -66,22 +66,4 @@ Estudar mais para duas áreas como concursos e a etec. Para ter um desempenho ac
 
 ## 🔚 Relatório Final (preencher no final do projeto)
 
-- **Resumo do Projeto**:
-- **Resultados Alcançados**:
-- **OKRs atingidos**:
-- **KPIs finais**:
-- **Lições Aprendidas**:
-- **Dificuldades enfrentadas**:
-- **Próximos passos (caso continue o projeto)**:
-
----
-
-## 👥 Equipe
-
-| Nome | GitHub | Função no Projeto |
-|------|--------|--------------------|
-| Tai Oliveira | @tainaoliveira | Líder Técnica e Facilitadora |
-| [Nome] | @[GitHub] | [Função] |
-
-
----
+Pojeto em andamento..
