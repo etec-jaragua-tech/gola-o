@@ -13,26 +13,35 @@ Estudar mais para duas áreas como concursos e a etec. Para ter um desempenho ac
 - Disciplina
   
 ## 🎯 OKRs (Objectives and Key Results)
-8 meses
 
-### Objetivo 1: Começar a estudar de fato.
-1. Estudar pelo menos 4x na semana, no mínimo 30min ou 1h.
-2.Estudar pelo menos metade da matéria de português.
+### Objetivo 1: Ser inspetor de informática
+1. Garantir critérios minímos para realizar a prova.
+2. Incrição e pagamento da taxa até 29/4.
+3. Comparecer ao local de prova no dia 29/06 ao 12h, com documentação e material.
 
-### Objetivo 2: Fazer simulados
-1. Fazer simulados para teste o conhecimento.
-2.Atingir 70% de respostas corretas.
-
+### Objetivo 2: Passar na prova
+1. Ficar entre os 1° e 3° lugar.
+2. Ser elegível a posse do cargo em Agosto
+3. Comprovar certificação no Técnico em MSI e no Ensino Médio
+4. Ser aprovado nas avaliações técnicas e psicológicas
 ----------
+
 
 ## 📊 KPIs (Indicadores Chave de Desempenho)
 
 | Indicador                | Meta          | Atual |
 |--------------------------|---------------|--------|
-| Número de usuários       | 100           | 0      |
-| Tempo de resposta da API | < 300ms       | N/D    |
-| Estrelas no GitHub       | 50            | 0      |
-| Testes automatizados     | 90% cobertura | 0%     |
+| Concluir a inscrição até 25/04                                               | 100           | 0      |
+| Pagar boleto até 28/04 | < 300ms                                             | N/D    |
+| Monitorar o e-mail para verificar o status da incrição até o dia 29/04       | 50            | 0      |
+| Monitorar o e-mail para verificar o local da prova                           | 90% cobertura | 0%     |
+| Calcular  tempo e rota de lomoção até o local de prova                       | 90% cobertura | 0%     |
+| Verificar materias de prova e comprar                                        | 90% cobertura | 0%     |
+| Separar documentos: RG e CNH                                                 | 90% cobertura | 0%     |
+
+
+
+
 
 ---
 
