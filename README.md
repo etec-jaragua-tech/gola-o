@@ -24,8 +24,6 @@ Estudar mais para duas áreas como concursos e a etec. Para ter um desempenho ac
 2. Ser elegível a posse do cargo em Agosto
 3. Comprovar certificação no Técnico em MSI e no Ensino Médio
 4. Ser aprovado nas avaliações técnicas e psicológicas
-----------
-
 
 ## 📊 KPIs (Indicadores Chave de Desempenho)
 
@@ -39,11 +37,6 @@ Estudar mais para duas áreas como concursos e a etec. Para ter um desempenho ac
 | Verificar materias de prova e comprar                                        | 100           | 100%   |
 | Separar documentos: RG e CNH                                                 | 100           | 90%    |
 
-
-
-
-
----
 
 ## 🗺️ Roadmap (Resumo de 6 Meses)
 
