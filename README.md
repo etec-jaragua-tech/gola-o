@@ -4,7 +4,7 @@
 Estudar mais para melhor o meu desempenho.
 
 ## 🔭 Visão
-Estudar mais para duas áreas como concursos e a etec. Para ter um desempenho acadêmico melhor e passar em concurso.
+Estudar para concursos de Itatiba e passar.
 
 ## 🧱 Valores
 - Foco
@@ -37,32 +37,6 @@ Estudar mais para duas áreas como concursos e a etec. Para ter um desempenho ac
 | Verificar materias de prova e comprar                                        | 100           | 100%   |
 | Separar documentos: RG e CNH                                                 | 100           | 90%    |
 ------------------------------------------------------------------------------------------------------------
-
-## 🗺️ Roadmap (Resumo de 6 Meses)
-
-| Mês | Meta Principal                         | Entregas esperadas                             |
-|-----|-----------------------------------------|------------------------------------------------|
-| 1   | Planejamento e visão                    | Missão, Visão, Valores, OKRs e KPIs            |
-| 2   | Prototipação inicial                    | Mockups, validação de ideia, setup do projeto  |
-| 3   | MVP 1                                   | Funcionalidades básicas, demo funcional        |
-| 4   | MVP 2 com melhorias                     | Refino de UX/UI, testes                        |
-| 5   | Validação e crescimento                 | Métricas, marketing, conteúdo, comunidade      |
-| 6   | Entrega final e apresentação            | Release final, documentação, apresentação      |
-
----
-
-## ✅ Status dos Sprints
-
-| Sprint | Status | Principais Tarefas                                  |
-|--------|--------|------------------------------------------------------|
-| Sprint 1 | 🔄 Em andamento | Definir propósito e estrutura do projeto         |
-| Sprint 2 | ⬜️ Não iniciado | Setup técnico e primeiras funcionalidades        |
-| Sprint 3 | ⬜️ Não iniciado | MVP funcional e validação inicial               |
-| Sprint 4 | ⬜️ Não iniciado | Iteração de melhorias com base no feedback      |
-| Sprint 5 | ⬜️ Não iniciado | Estratégias de alcance e comunidade             |
-| Sprint 6 | ⬜️ Não iniciado | Apresentação final, métricas, relatório geral   |
-
----
 
 ## 🔚 Relatório Final (preencher no final do projeto)
 
