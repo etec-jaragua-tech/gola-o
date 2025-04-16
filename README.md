@@ -29,15 +29,15 @@ Estudar mais para duas áreas como concursos e a etec. Para ter um desempenho ac
 
 ## 📊 KPIs (Indicadores Chave de Desempenho)
 
-| Indicador                | Meta          | Atual |
-|--------------------------|---------------|--------|
-| Concluir a inscrição até 25/04                                               | 100           | 0      |
-| Pagar boleto até 28/04 | < 300ms                                             | N/D    |
-| Monitorar o e-mail para verificar o status da incrição até o dia 29/04       | 50            | 0      |
-| Monitorar o e-mail para verificar o local da prova                           | 90% cobertura | 0%     |
-| Calcular  tempo e rota de lomoção até o local de prova                       | 90% cobertura | 0%     |
-| Verificar materias de prova e comprar                                        | 90% cobertura | 0%     |
-| Separar documentos: RG e CNH                                                 | 90% cobertura | 0%     |
+| Indicador                                                                    | Meta          | Atual  |
+|------------------------------------------------------------------------------|---------------|--------|
+| Concluir a inscrição até 25/04                                               | 100           | 50%    |
+| Pagar boleto até 28/04                                                       | 100           | 30%    |
+| Monitorar o e-mail para verificar o status da incrição até o dia 29/04       | 100           | 100    |
+| Monitorar o e-mail para verificar o local da prova                           | 100           | 100%   |
+| Calcular  tempo e rota de lomoção até o local de prova                       | 100           | 0%     |
+| Verificar materias de prova e comprar                                        | 100           | 100%   |
+| Separar documentos: RG e CNH                                                 | 100           | 90%    |
 
 
 
